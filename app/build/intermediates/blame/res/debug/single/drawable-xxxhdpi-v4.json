@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\wifidirect_banner.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-xxxhdpi\\wifidirect_banner.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\wifidirect_launcher.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-xxxhdpi\\wifidirect_launcher.png"
+    }
+]

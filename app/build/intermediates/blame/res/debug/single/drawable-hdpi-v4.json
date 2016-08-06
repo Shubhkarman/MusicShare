@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_bg_hover.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_previous.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_previous.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_backward.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_backward.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_play.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_repeat.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_repeat.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_next_pressed.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_next_pressed.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_playlist.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_playlist.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbar_progress.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\seekbar_progress.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_playlist_pressed.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_playlist_pressed.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_backward.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_backward.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_repeat_pressed.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_repeat_pressed.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_bg.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_play.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_play.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_shuffle.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_shuffle.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_forward_pressed.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_forward_pressed.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_previous_pressed.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_previous_pressed.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_play_pressed.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_play_pressed.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_shuffle_pressed.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_shuffle_pressed.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pause.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_pause.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek_handler.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\seek_handler.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_repeat_focused.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_repeat_focused.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_pause_pressed.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_pause_pressed.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbar_progress_bg.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_forward.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_forward.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_discover.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\ic_action_discover.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_on_off.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\ic_action_on_off.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\list_selector.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_next.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_next.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_shuffle.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_shuffle.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\track_info_bg.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\track_info_bg.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playlist.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_playlist.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_repeat.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_repeat.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_previous.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_previous.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_seekbar_bg.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_seekbar_bg.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_next.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_shuffle_focused.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\btn_shuffle_focused.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_backward_pressed.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_backward_pressed.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_forward.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_forward.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_seekbar_progress_blue.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_seekbar_progress_blue.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\adele.jpg",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\adele.jpg"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_btn_pause.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable-hdpi\\img_btn_pause.png"
+    }
+]

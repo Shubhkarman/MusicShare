@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\section_header.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable\\section_header.xml"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\machine.png",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable\\machine.png"
+    },
+    {
+        "merged": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\details_view.xml",
+        "source": "G:\\Android_Projects_Studio\\MusicShare\\ImageToSong\\WiFiDirect\\app\\src\\main\\res\\drawable\\details_view.xml"
+    }
+]
